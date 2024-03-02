@@ -1,6 +1,6 @@
 # 👋 Bem vindo!
 
-## My name is Lailson Herondino and my nickname is "SolomunZ"!
+## Oi, sou o Lailson Herondino, como vai você!?
 
 - 🔭 Estudande de Sistemas para Internet (IFPB) ...
 - 🌱 Estudando React.js e Next.Js ...
